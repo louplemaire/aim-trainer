@@ -3,7 +3,7 @@
 Click on start and hover the target to win points.
 Challenge your friends for know who he's the best of you 😎
 
-## Instructions if you want to upgrade the game
+## Instructions
 
 Install dependencies
 
